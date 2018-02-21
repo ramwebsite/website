@@ -72,8 +72,6 @@ h2 {
 	font-weight: 800;
 	line-height: 1em;
 	letter-spacing: 0.2em;
-	-webkit-text-stroke-width: 0.5px;
-   -webkit-text-stroke-color: black
 	text-transform: uppercase;
 	color: #666666;
 }
