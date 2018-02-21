@@ -68,10 +68,11 @@ h1 {
 
 h2 {
 	font-size: 18px;
-	font-weight: 500;
+	font-weight: 800;
 	line-height: 1em;
+	letter-spacing: 0.2em;
 	text-transform: uppercase;
-	color: #666666;
+	color: #161a1b;
 }
 
 #countdown div span {
