@@ -61,8 +61,7 @@ h1 {
 	font-size: 80px;
 	font-weight: 800;
 	line-height: 80px;
-   -webkit-text-stroke-width: 0.5px;
-   -webkit-text-stroke-color: black;
+   
 	letter-spacing: -0.08em;
 	color: #ffffff; 
 	
@@ -414,7 +413,7 @@ h2 {
 @media all and (min-width: 400px) {
 	/* HERO */
 	h1 { font-size: 40px; line-height: 40px; }
-	#countdown div span {font-size: 24px; line-height: 34px;}
+	#countdown div span {font-size: 24 px; line-height: 34px;}
 	.sub-title { font-size: ; line-height: ; margin-top: 10px; }
 	/* TITLE & CONTACT */
 	.title { top: 15%;}
